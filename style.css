@@ -1,0 +1,17 @@
+body {
+    text-align: center;
+}
+
+h1 {
+    font-family: consolas;
+}
+
+a:visited, a:link {
+    text-decoration: none;
+    color: grey;
+    transition: border 0.2s;
+}
+
+a:hover {
+    border-bottom-style: solid;
+}
